@@ -1,2 +1,1 @@
-# Atividade-Avaliativa-Banco-de-Dados
-Criar um Banco de Dados
+minha criaçao de banco de dados do teste avaliativo
